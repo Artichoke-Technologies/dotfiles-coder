@@ -1,0 +1,77 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "emojisense.languages": {
+        "markdown": true,
+        "php": true,
+        "html": true,
+        "cpp": true,
+        "plaintext": {
+            "markupCompletionsEnabled": false,
+            "emojiDecoratorsEnabled": false
+        },
+        "scminput": true,
+        "git-commit": true
+    },
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10000,
+    "[html]": {
+        "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": true,
+        "markdown": true
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "projectManager.git.baseFolders": [
+        "~/Code"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "wws-bot-dev",
+            "database": "wwsbotdev",
+            "username": "root"
+        }
+    ],
+    "cmake.buildEnvironment": {
+        "PICO_SDK_PATH": "/home/npatrick/raspberry-pi-pico/pico/pico-sdk"
+    },
+    "cmake.configureEnvironment": {
+        "PICO_SDK_PATH": "/home/npatrick/raspberry-pi-pico/pico/pico-sdk"
+    },
+    "cSpell.userWords": [
+        "proxied"
+    ],
+    "window.titleBarStyle": "custom",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "remote.SSH.remotePlatform": {
+        "coder-vscode--npatrick--artichoke3d": "linux"
+    },
+    "sync.gist": "8dce199d3243205146a01497fa2bd027",
+    "sync.autoUpload": true,
+    "sync.quietSync": false
+}

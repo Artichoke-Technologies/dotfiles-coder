@@ -1,0 +1,560 @@
+[
+    {
+        "id": "akamud.vscode-theme-onedark",
+        "name": "vscode-theme-onedark",
+        "publisher": "akamud",
+        "version": "2.3.0"
+    },
+    {
+        "id": "alefragnani.Bookmarks",
+        "name": "Bookmarks",
+        "publisher": "alefragnani",
+        "version": "13.3.1"
+    },
+    {
+        "id": "alefragnani.project-manager",
+        "name": "project-manager",
+        "publisher": "alefragnani",
+        "version": "12.7.0"
+    },
+    {
+        "id": "AnbuselvanRocky.bootstrap5-vscode",
+        "name": "bootstrap5-vscode",
+        "publisher": "AnbuselvanRocky",
+        "version": "0.4.2"
+    },
+    {
+        "id": "anseki.vscode-color",
+        "name": "vscode-color",
+        "publisher": "anseki",
+        "version": "0.4.5"
+    },
+    {
+        "id": "attilabuti.brainfuck-syntax",
+        "name": "brainfuck-syntax",
+        "publisher": "attilabuti",
+        "version": "0.0.1"
+    },
+    {
+        "id": "bbenoist.QML",
+        "name": "QML",
+        "publisher": "bbenoist",
+        "version": "1.0.0"
+    },
+    {
+        "id": "bierner.emojisense",
+        "name": "emojisense",
+        "publisher": "bierner",
+        "version": "0.9.1"
+    },
+    {
+        "id": "brapifra.phpserver",
+        "name": "phpserver",
+        "publisher": "brapifra",
+        "version": "3.0.2"
+    },
+    {
+        "id": "budparr.language-hugo-vscode",
+        "name": "language-hugo-vscode",
+        "publisher": "budparr",
+        "version": "1.3.1"
+    },
+    {
+        "id": "bungcip.better-toml",
+        "name": "better-toml",
+        "publisher": "bungcip",
+        "version": "0.3.2"
+    },
+    {
+        "id": "cjhowe7.laravel-blade",
+        "name": "laravel-blade",
+        "publisher": "cjhowe7",
+        "version": "1.1.2"
+    },
+    {
+        "id": "coder.coder-remote",
+        "name": "coder-remote",
+        "publisher": "coder",
+        "version": "0.1.12"
+    },
+    {
+        "id": "cschlosser.doxdocgen",
+        "name": "doxdocgen",
+        "publisher": "cschlosser",
+        "version": "1.4.0"
+    },
+    {
+        "id": "DavidAnson.vscode-markdownlint",
+        "name": "vscode-markdownlint",
+        "publisher": "DavidAnson",
+        "version": "0.49.0"
+    },
+    {
+        "id": "dbaeumer.vscode-eslint",
+        "name": "vscode-eslint",
+        "publisher": "dbaeumer",
+        "version": "2.4.0"
+    },
+    {
+        "id": "eamodio.gitlens",
+        "name": "gitlens",
+        "publisher": "eamodio",
+        "version": "13.3.1"
+    },
+    {
+        "id": "ecmel.vscode-html-css",
+        "name": "vscode-html-css",
+        "publisher": "ecmel",
+        "version": "1.13.1"
+    },
+    {
+        "id": "EditorConfig.EditorConfig",
+        "name": "EditorConfig",
+        "publisher": "EditorConfig",
+        "version": "0.16.4"
+    },
+    {
+        "id": "firefox-devtools.vscode-firefox-debug",
+        "name": "vscode-firefox-debug",
+        "publisher": "firefox-devtools",
+        "version": "2.9.8"
+    },
+    {
+        "id": "GitHub.copilot",
+        "name": "copilot",
+        "publisher": "GitHub",
+        "version": "1.77.9225"
+    },
+    {
+        "id": "GitHub.vscode-pull-request-github",
+        "name": "vscode-pull-request-github",
+        "publisher": "GitHub",
+        "version": "0.58.2"
+    },
+    {
+        "id": "golf1052.code-sync",
+        "name": "code-sync",
+        "publisher": "golf1052",
+        "version": "2.7.3"
+    },
+    {
+        "id": "hangxingliu.vscode-nginx-conf-hint",
+        "name": "vscode-nginx-conf-hint",
+        "publisher": "hangxingliu",
+        "version": "0.3.0"
+    },
+    {
+        "id": "hollowtree.vue-snippets",
+        "name": "vue-snippets",
+        "publisher": "hollowtree",
+        "version": "1.0.4"
+    },
+    {
+        "id": "icrawl.discord-vscode",
+        "name": "discord-vscode",
+        "publisher": "icrawl",
+        "version": "5.8.0"
+    },
+    {
+        "id": "Janne252.fontawesome-autocomplete",
+        "name": "fontawesome-autocomplete",
+        "publisher": "Janne252",
+        "version": "1.3.1"
+    },
+    {
+        "id": "jcbuisson.vue",
+        "name": "vue",
+        "publisher": "jcbuisson",
+        "version": "0.1.5"
+    },
+    {
+        "id": "jeff-hykin.better-cpp-syntax",
+        "name": "better-cpp-syntax",
+        "publisher": "jeff-hykin",
+        "version": "1.17.2"
+    },
+    {
+        "id": "josetr.cmake-language-support-vscode",
+        "name": "cmake-language-support-vscode",
+        "publisher": "josetr",
+        "version": "0.0.9"
+    },
+    {
+        "id": "marus25.cortex-debug",
+        "name": "cortex-debug",
+        "publisher": "marus25",
+        "version": "1.6.10"
+    },
+    {
+        "id": "mcu-debug.debug-tracker-vscode",
+        "name": "debug-tracker-vscode",
+        "publisher": "mcu-debug",
+        "version": "0.0.14"
+    },
+    {
+        "id": "mcu-debug.memory-view",
+        "name": "memory-view",
+        "publisher": "mcu-debug",
+        "version": "0.0.19"
+    },
+    {
+        "id": "mcu-debug.rtos-views",
+        "name": "rtos-views",
+        "publisher": "mcu-debug",
+        "version": "0.0.5"
+    },
+    {
+        "id": "mohd-akram.vscode-html-format",
+        "name": "vscode-html-format",
+        "publisher": "mohd-akram",
+        "version": "0.0.5"
+    },
+    {
+        "id": "mrmlnc.vscode-apache",
+        "name": "vscode-apache",
+        "publisher": "mrmlnc",
+        "version": "1.2.0"
+    },
+    {
+        "id": "ms-azuretools.vscode-docker",
+        "name": "vscode-docker",
+        "publisher": "ms-azuretools",
+        "version": "1.24.0"
+    },
+    {
+        "id": "ms-dotnettools.csharp",
+        "name": "csharp",
+        "publisher": "ms-dotnettools",
+        "version": "1.25.4"
+    },
+    {
+        "id": "ms-dotnettools.vscode-dotnet-runtime",
+        "name": "vscode-dotnet-runtime",
+        "publisher": "ms-dotnettools",
+        "version": "1.6.0"
+    },
+    {
+        "id": "ms-python.isort",
+        "name": "isort",
+        "publisher": "ms-python",
+        "version": "2022.8.0"
+    },
+    {
+        "id": "ms-python.python",
+        "name": "python",
+        "publisher": "ms-python",
+        "version": "2023.4.0"
+    },
+    {
+        "id": "ms-python.vscode-pylance",
+        "name": "vscode-pylance",
+        "publisher": "ms-python",
+        "version": "2023.3.10"
+    },
+    {
+        "id": "ms-toolsai.jupyter",
+        "name": "jupyter",
+        "publisher": "ms-toolsai",
+        "version": "2023.1.2010391206"
+    },
+    {
+        "id": "ms-toolsai.jupyter-keymap",
+        "name": "jupyter-keymap",
+        "publisher": "ms-toolsai",
+        "version": "1.1.0"
+    },
+    {
+        "id": "ms-toolsai.jupyter-renderers",
+        "name": "jupyter-renderers",
+        "publisher": "ms-toolsai",
+        "version": "1.0.14"
+    },
+    {
+        "id": "ms-toolsai.vscode-jupyter-cell-tags",
+        "name": "vscode-jupyter-cell-tags",
+        "publisher": "ms-toolsai",
+        "version": "0.1.6"
+    },
+    {
+        "id": "ms-toolsai.vscode-jupyter-slideshow",
+        "name": "vscode-jupyter-slideshow",
+        "publisher": "ms-toolsai",
+        "version": "0.1.5"
+    },
+    {
+        "id": "ms-vscode-remote.remote-containers",
+        "name": "remote-containers",
+        "publisher": "ms-vscode-remote",
+        "version": "0.282.0"
+    },
+    {
+        "id": "ms-vscode-remote.remote-ssh",
+        "name": "remote-ssh",
+        "publisher": "ms-vscode-remote",
+        "version": "0.98.0"
+    },
+    {
+        "id": "ms-vscode-remote.remote-ssh-edit",
+        "name": "remote-ssh-edit",
+        "publisher": "ms-vscode-remote",
+        "version": "0.84.0"
+    },
+    {
+        "id": "ms-vscode-remote.remote-wsl",
+        "name": "remote-wsl",
+        "publisher": "ms-vscode-remote",
+        "version": "0.75.3"
+    },
+    {
+        "id": "ms-vscode-remote.vscode-remote-extensionpack",
+        "name": "vscode-remote-extensionpack",
+        "publisher": "ms-vscode-remote",
+        "version": "0.24.0"
+    },
+    {
+        "id": "ms-vscode.cmake-tools",
+        "name": "cmake-tools",
+        "publisher": "ms-vscode",
+        "version": "1.13.45"
+    },
+    {
+        "id": "ms-vscode.cpptools",
+        "name": "cpptools",
+        "publisher": "ms-vscode",
+        "version": "1.14.4"
+    },
+    {
+        "id": "ms-vscode.cpptools-extension-pack",
+        "name": "cpptools-extension-pack",
+        "publisher": "ms-vscode",
+        "version": "1.3.0"
+    },
+    {
+        "id": "ms-vscode.cpptools-themes",
+        "name": "cpptools-themes",
+        "publisher": "ms-vscode",
+        "version": "2.0.0"
+    },
+    {
+        "id": "ms-vscode.remote-explorer",
+        "name": "remote-explorer",
+        "publisher": "ms-vscode",
+        "version": "0.2.0"
+    },
+    {
+        "id": "ms-vscode.remote-server",
+        "name": "remote-server",
+        "publisher": "ms-vscode",
+        "version": "1.0.0"
+    },
+    {
+        "id": "ms-vsliveshare.vsliveshare",
+        "name": "vsliveshare",
+        "publisher": "ms-vsliveshare",
+        "version": "1.0.5832"
+    },
+    {
+        "id": "mtxr.sqltools",
+        "name": "sqltools",
+        "publisher": "mtxr",
+        "version": "0.27.1"
+    },
+    {
+        "id": "mtxr.sqltools-driver-mysql",
+        "name": "sqltools-driver-mysql",
+        "publisher": "mtxr",
+        "version": "0.5.1"
+    },
+    {
+        "id": "nico-castell.linux-desktop-file",
+        "name": "linux-desktop-file",
+        "publisher": "nico-castell",
+        "version": "0.0.21"
+    },
+    {
+        "id": "nonoroazoro.syncing",
+        "name": "syncing",
+        "publisher": "nonoroazoro",
+        "version": "3.3.4"
+    },
+    {
+        "id": "octref.vetur",
+        "name": "vetur",
+        "publisher": "octref",
+        "version": "0.37.3"
+    },
+    {
+        "id": "onecentlin.laravel-blade",
+        "name": "laravel-blade",
+        "publisher": "onecentlin",
+        "version": "1.32.0"
+    },
+    {
+        "id": "platformio.platformio-ide",
+        "name": "platformio-ide",
+        "publisher": "platformio",
+        "version": "3.0.0"
+    },
+    {
+        "id": "redhat.java",
+        "name": "java",
+        "publisher": "redhat",
+        "version": "1.15.0"
+    },
+    {
+        "id": "rifi2k.format-html-in-php",
+        "name": "format-html-in-php",
+        "publisher": "rifi2k",
+        "version": "1.7.0"
+    },
+    {
+        "id": "ritwickdey.LiveServer",
+        "name": "LiveServer",
+        "publisher": "ritwickdey",
+        "version": "5.7.9"
+    },
+    {
+        "id": "rusnasonov.vscode-hugo",
+        "name": "vscode-hugo",
+        "publisher": "rusnasonov",
+        "version": "0.24.0"
+    },
+    {
+        "id": "Shan.code-settings-sync",
+        "name": "code-settings-sync",
+        "publisher": "Shan",
+        "version": "3.4.3"
+    },
+    {
+        "id": "shanoor.vscode-nginx",
+        "name": "vscode-nginx",
+        "publisher": "shanoor",
+        "version": "0.6.0"
+    },
+    {
+        "id": "shufo.vscode-blade-formatter",
+        "name": "vscode-blade-formatter",
+        "publisher": "shufo",
+        "version": "0.20.12"
+    },
+    {
+        "id": "SoftHeroes.laravel-artisan",
+        "name": "laravel-artisan",
+        "publisher": "SoftHeroes",
+        "version": "0.0.1"
+    },
+    {
+        "id": "streetsidesoftware.code-spell-checker",
+        "name": "code-spell-checker",
+        "publisher": "streetsidesoftware",
+        "version": "2.18.0"
+    },
+    {
+        "id": "Tobermory.es6-string-html",
+        "name": "es6-string-html",
+        "publisher": "Tobermory",
+        "version": "2.12.1"
+    },
+    {
+        "id": "tonka3000.qtvsctools",
+        "name": "qtvsctools",
+        "publisher": "tonka3000",
+        "version": "0.11.0"
+    },
+    {
+        "id": "twxs.cmake",
+        "name": "cmake",
+        "publisher": "twxs",
+        "version": "0.0.17"
+    },
+    {
+        "id": "Tyriar.lorem-ipsum",
+        "name": "lorem-ipsum",
+        "publisher": "Tyriar",
+        "version": "1.3.1"
+    },
+    {
+        "id": "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "name": "intellicode-api-usage-examples",
+        "publisher": "VisualStudioExptTeam",
+        "version": "0.2.7"
+    },
+    {
+        "id": "VisualStudioExptTeam.vscodeintellicode",
+        "name": "vscodeintellicode",
+        "publisher": "VisualStudioExptTeam",
+        "version": "1.2.30"
+    },
+    {
+        "id": "vivek-kasture.properties-validator",
+        "name": "properties-validator",
+        "publisher": "vivek-kasture",
+        "version": "0.0.6"
+    },
+    {
+        "id": "vscjava.vscode-java-debug",
+        "name": "vscode-java-debug",
+        "publisher": "vscjava",
+        "version": "0.49.0"
+    },
+    {
+        "id": "vscjava.vscode-java-dependency",
+        "name": "vscode-java-dependency",
+        "publisher": "vscjava",
+        "version": "0.21.1"
+    },
+    {
+        "id": "vscjava.vscode-java-pack",
+        "name": "vscode-java-pack",
+        "publisher": "vscjava",
+        "version": "0.25.8"
+    },
+    {
+        "id": "vscjava.vscode-java-test",
+        "name": "vscode-java-test",
+        "publisher": "vscjava",
+        "version": "0.38.1"
+    },
+    {
+        "id": "vscjava.vscode-maven",
+        "name": "vscode-maven",
+        "publisher": "vscjava",
+        "version": "0.40.4"
+    },
+    {
+        "id": "vscode-icons-team.vscode-icons",
+        "name": "vscode-icons",
+        "publisher": "vscode-icons-team",
+        "version": "12.2.0"
+    },
+    {
+        "id": "Vue.volar",
+        "name": "volar",
+        "publisher": "Vue",
+        "version": "1.2.0"
+    },
+    {
+        "id": "xdebug.php-debug",
+        "name": "php-debug",
+        "publisher": "xdebug",
+        "version": "1.32.0"
+    },
+    {
+        "id": "xdebug.php-pack",
+        "name": "php-pack",
+        "publisher": "xdebug",
+        "version": "1.0.3"
+    },
+    {
+        "id": "zhuangtongfa.material-theme",
+        "name": "material-theme",
+        "publisher": "zhuangtongfa",
+        "version": "3.15.6"
+    },
+    {
+        "id": "zobo.php-intellisense",
+        "name": "php-intellisense",
+        "publisher": "zobo",
+        "version": "1.1.2"
+    }
+]

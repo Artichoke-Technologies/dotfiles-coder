@@ -1,0 +1,9 @@
+atom
+brackets
+chromium
+firefox
+cups
+flameshot
+fusion360
+insomnia
+mc-installer
