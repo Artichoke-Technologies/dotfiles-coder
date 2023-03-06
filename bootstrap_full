@@ -16,7 +16,7 @@ sudo apt-get -y update
 sudo apt-get -y upgrade
 
 echo 'Installing all packages expressly installed by apt (packages-apt.txt)... This may take a while...'
-sudo apt-get -y install $(cat ../packages/packages-apt.txt)
+sudo apt-get -y --ignore-missing install $(cat ../packages/packages-apt.txt)
 
 echo 'installing all packages expressly installed by snap (packages-snap.txt)... This may take a while...'
 sudo snap install $(cat ../packages/packages-snap.txt) --classic
