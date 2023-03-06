@@ -33,6 +33,7 @@ nginx
 sqlite
 sqlite3
 mysql-server
+mysql-server-8.0
 mariadb-server
 mariadb-client
 mariadb-common
