@@ -35,7 +35,6 @@ sqlite3
 mysql-server
 mysql-server-8.0
 mysql-client-8.0
-msql-client
 python3
 git
 nano
