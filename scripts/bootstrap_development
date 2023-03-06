@@ -1,13 +1,13 @@
 #!/bin/bash
-ln -s ~/.dotfiles/.bashrc ~/.bashrc
-ln -s ~/.dotfiles/.bash_profile ~/.bash_profile
-ln -s ~/.dotfiles/.profile ~/.profile
-ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
-ln -s ~/.dotfiles/.stellarium/config.ini ~/.stellarium/config.ini
-ln -s ~/.dotfiles/.vscode/settings.json ~/.config/Code/User/settings.json
-ln -s ~/.dotfiles/.vscode/keybindings.json ~/.config/Code/User/keybindings.json
-ln -s ~/.dotfiles/.vscode/snippets ~/.config/Code/User/snippets
-ln -s ~/.dotfiles/.vscode/extensions.json ~/.config/Code/User/extensions.json
+ln -sf ~/.dotfiles/.bashrc ~/.bashrc
+ln -sf ~/.dotfiles/.bash_profile ~/.bash_profile
+ln -sf ~/.dotfiles/.profile ~/.profile
+ln -sf ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -sf ~/.dotfiles/.stellarium/config.ini ~/.stellarium/config.ini
+ln -sf ~/.dotfiles/.vscode/settings.json ~/.config/Code/User/settings.json
+ln -sf ~/.dotfiles/.vscode/keybindings.json ~/.config/Code/User/keybindings.json
+ln -sf ~/.dotfiles/.vscode/snippets ~/.config/Code/User/snippets
+ln -sf ~/.dotfiles/.vscode/extensions.json ~/.config/Code/User/extensions.json
 
 echo 'Symlinks created'
 
