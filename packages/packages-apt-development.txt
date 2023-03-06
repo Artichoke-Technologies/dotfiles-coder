@@ -6,7 +6,6 @@ php-curl
 php-gd
 php-google-recaptcha
 php-json
-php-mariadb-mysql-kbs
 php-mbstring
 php-mysql
 php-nikic-fast-route
@@ -22,14 +21,12 @@ php-symfony-cache
 php-symfony-cache-contracts
 php-symfony-config
 php-symfony-dependency-injection
-php-symfony-deprecation-contracts
 php-symfony-expression-language
 php-symfony-filesystem
 php-symfony-service-contracts
 php-symfony-var-exporter
 php-tcpdf
 php-twig
-php-twig-i18n-extension
 php-xml
 php-zip
 nginx
